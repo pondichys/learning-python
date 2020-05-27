@@ -1,6 +1,6 @@
 import random
 
-nombre_mystere = random.randint(0, 1)
+nombre_mystere = random.randint(0, 10)
 
 a = int(input("Devinez le nombre mystère. Entrez un nombre: "))
 
