@@ -1,0 +1,6 @@
+prenom = input("Veuillez entrer votre prénom: ")
+age = input("Quel est votre âge? ")
+ville = input("Dans quelle ville habitez-vous? ")
+print(prenom)
+print(age)
+print(ville)
